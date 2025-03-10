@@ -3,9 +3,10 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Richard Schirripa has an extensive lifetime pharmaceutical
+  leadership background. He was the Owner of Drug Rich Pharmacy , Madison Avenue
+  Pharmacy and Carnegie Hill Health and Beauty Aids, all located in the upper
+  east side of Manhattan.
 published: true
 schemaType: WebPage
 header: Blog
